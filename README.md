@@ -4,7 +4,7 @@ Before diving into mobile development, it's crucial to have a foundation in prog
 #### **1. Programming Fundamentals (1-2 months)**
 **JavaScript** (For React Native) or **Dart** (For Flutter)
    - **Free Resources:**
-     - [] [freeCodeCamp JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+     - [ ] [freeCodeCamp JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
      - [ ] [JavaScript.info](https://javascript.info/)
      - [ ] [Dart Programming Language - Official Tour](https://dart.dev/tour)
 
